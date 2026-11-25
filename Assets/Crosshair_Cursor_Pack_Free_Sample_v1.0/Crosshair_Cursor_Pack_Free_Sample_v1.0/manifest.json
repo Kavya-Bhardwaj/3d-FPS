@@ -1,0 +1,1089 @@
+{
+ "pack": "Crosshair and Cursor Pack - Free Sample",
+ "version": "1.0",
+ "publisher": "REEBOO Labs",
+ "design_grid_units": 32,
+ "stroke_width_units": 2,
+ "outline_width_units": 1,
+ "sizes_px": [
+  32,
+  64,
+  128
+ ],
+ "variants": {
+  "white": "pure white with alpha, tint it in your engine",
+  "outlined": "white shape with a 1 unit (1 px at 32) black outline, readable on any background"
+ },
+ "hotspot_note": "Hotspot is the click point in pixels from the top-left of the PNG at each size. Crosshairs and hit markers use the image centre.",
+ "counts": {
+  "crosshairs": 20,
+  "hit_markers": 2,
+  "cursors": 6,
+  "total": 28
+ },
+ "categories": {
+  "crosshairs": {
+   "dots": 2,
+   "cross": 2,
+   "tee": 1,
+   "x": 1,
+   "circle": 3,
+   "chevron": 1,
+   "bracket": 2,
+   "sniper": 3,
+   "spread": 1,
+   "holo": 2,
+   "shapes": 1,
+   "misc": 1
+  },
+  "hit_markers": {
+   "hit_marker": 2
+  },
+  "cursors": {
+   "arrow": 1,
+   "hand": 1,
+   "attack": 1,
+   "move": 1,
+   "state": 1,
+   "text": 1
+  }
+ },
+ "items": [
+  {
+   "name": "dot_r2",
+   "kind": "crosshairs",
+   "category": "dots",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/dots/dot_r2.png",
+     "outlined": "png/32/outlined/crosshairs/dots/dot_r2.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/dots/dot_r2.png",
+     "outlined": "png/64/outlined/crosshairs/dots/dot_r2.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/dots/dot_r2.png",
+     "outlined": "png/128/outlined/crosshairs/dots/dot_r2.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/dots/dot_r2.svg",
+    "outlined": "svg/outlined/crosshairs/dots/dot_r2.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "ring_r9_dot1",
+   "kind": "crosshairs",
+   "category": "dots",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/dots/ring_r9_dot1.png",
+     "outlined": "png/32/outlined/crosshairs/dots/ring_r9_dot1.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/dots/ring_r9_dot1.png",
+     "outlined": "png/64/outlined/crosshairs/dots/ring_r9_dot1.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/dots/ring_r9_dot1.png",
+     "outlined": "png/128/outlined/crosshairs/dots/ring_r9_dot1.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/dots/ring_r9_dot1.svg",
+    "outlined": "svg/outlined/crosshairs/dots/ring_r9_dot1.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "cross_w2_gap4_len5",
+   "kind": "crosshairs",
+   "category": "cross",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/cross/cross_w2_gap4_len5.png",
+     "outlined": "png/32/outlined/crosshairs/cross/cross_w2_gap4_len5.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/cross/cross_w2_gap4_len5.png",
+     "outlined": "png/64/outlined/crosshairs/cross/cross_w2_gap4_len5.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/cross/cross_w2_gap4_len5.png",
+     "outlined": "png/128/outlined/crosshairs/cross/cross_w2_gap4_len5.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/cross/cross_w2_gap4_len5.svg",
+    "outlined": "svg/outlined/crosshairs/cross/cross_w2_gap4_len5.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "cross_w2_gap4_len8_dot",
+   "kind": "crosshairs",
+   "category": "cross",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/cross/cross_w2_gap4_len8_dot.png",
+     "outlined": "png/32/outlined/crosshairs/cross/cross_w2_gap4_len8_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/cross/cross_w2_gap4_len8_dot.png",
+     "outlined": "png/64/outlined/crosshairs/cross/cross_w2_gap4_len8_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/cross/cross_w2_gap4_len8_dot.png",
+     "outlined": "png/128/outlined/crosshairs/cross/cross_w2_gap4_len8_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/cross/cross_w2_gap4_len8_dot.svg",
+    "outlined": "svg/outlined/crosshairs/cross/cross_w2_gap4_len8_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "tee_gap3_len7_dot",
+   "kind": "crosshairs",
+   "category": "tee",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/tee/tee_gap3_len7_dot.png",
+     "outlined": "png/32/outlined/crosshairs/tee/tee_gap3_len7_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/tee/tee_gap3_len7_dot.png",
+     "outlined": "png/64/outlined/crosshairs/tee/tee_gap3_len7_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/tee/tee_gap3_len7_dot.png",
+     "outlined": "png/128/outlined/crosshairs/tee/tee_gap3_len7_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/tee/tee_gap3_len7_dot.svg",
+    "outlined": "svg/outlined/crosshairs/tee/tee_gap3_len7_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "x_gap3_len6_dot",
+   "kind": "crosshairs",
+   "category": "x",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/x/x_gap3_len6_dot.png",
+     "outlined": "png/32/outlined/crosshairs/x/x_gap3_len6_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/x/x_gap3_len6_dot.png",
+     "outlined": "png/64/outlined/crosshairs/x/x_gap3_len6_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/x/x_gap3_len6_dot.png",
+     "outlined": "png/128/outlined/crosshairs/x/x_gap3_len6_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/x/x_gap3_len6_dot.svg",
+    "outlined": "svg/outlined/crosshairs/x/x_gap3_len6_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "ring_r10_ticks_in",
+   "kind": "crosshairs",
+   "category": "circle",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/circle/ring_r10_ticks_in.png",
+     "outlined": "png/32/outlined/crosshairs/circle/ring_r10_ticks_in.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/circle/ring_r10_ticks_in.png",
+     "outlined": "png/64/outlined/crosshairs/circle/ring_r10_ticks_in.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/circle/ring_r10_ticks_in.png",
+     "outlined": "png/128/outlined/crosshairs/circle/ring_r10_ticks_in.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/circle/ring_r10_ticks_in.svg",
+    "outlined": "svg/outlined/crosshairs/circle/ring_r10_ticks_in.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "ring_r10_ticks_out_dot",
+   "kind": "crosshairs",
+   "category": "circle",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/circle/ring_r10_ticks_out_dot.png",
+     "outlined": "png/32/outlined/crosshairs/circle/ring_r10_ticks_out_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/circle/ring_r10_ticks_out_dot.png",
+     "outlined": "png/64/outlined/crosshairs/circle/ring_r10_ticks_out_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/circle/ring_r10_ticks_out_dot.png",
+     "outlined": "png/128/outlined/crosshairs/circle/ring_r10_ticks_out_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/circle/ring_r10_ticks_out_dot.svg",
+    "outlined": "svg/outlined/crosshairs/circle/ring_r10_ticks_out_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "ring_r12_four_arcs_dot",
+   "kind": "crosshairs",
+   "category": "circle",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/circle/ring_r12_four_arcs_dot.png",
+     "outlined": "png/32/outlined/crosshairs/circle/ring_r12_four_arcs_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/circle/ring_r12_four_arcs_dot.png",
+     "outlined": "png/64/outlined/crosshairs/circle/ring_r12_four_arcs_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/circle/ring_r12_four_arcs_dot.png",
+     "outlined": "png/128/outlined/crosshairs/circle/ring_r12_four_arcs_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/circle/ring_r12_four_arcs_dot.svg",
+    "outlined": "svg/outlined/crosshairs/circle/ring_r12_four_arcs_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "chevrons4_s3_d7",
+   "kind": "crosshairs",
+   "category": "chevron",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/chevron/chevrons4_s3_d7.png",
+     "outlined": "png/32/outlined/crosshairs/chevron/chevrons4_s3_d7.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/chevron/chevrons4_s3_d7.png",
+     "outlined": "png/64/outlined/crosshairs/chevron/chevrons4_s3_d7.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/chevron/chevrons4_s3_d7.png",
+     "outlined": "png/128/outlined/crosshairs/chevron/chevrons4_s3_d7.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/chevron/chevrons4_s3_d7.svg",
+    "outlined": "svg/outlined/crosshairs/chevron/chevrons4_s3_d7.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "corners_h9_a3_dot",
+   "kind": "crosshairs",
+   "category": "bracket",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/bracket/corners_h9_a3_dot.png",
+     "outlined": "png/32/outlined/crosshairs/bracket/corners_h9_a3_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/bracket/corners_h9_a3_dot.png",
+     "outlined": "png/64/outlined/crosshairs/bracket/corners_h9_a3_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/bracket/corners_h9_a3_dot.png",
+     "outlined": "png/128/outlined/crosshairs/bracket/corners_h9_a3_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/bracket/corners_h9_a3_dot.svg",
+    "outlined": "svg/outlined/crosshairs/bracket/corners_h9_a3_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "square_brackets_h8_dot",
+   "kind": "crosshairs",
+   "category": "bracket",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/bracket/square_brackets_h8_dot.png",
+     "outlined": "png/32/outlined/crosshairs/bracket/square_brackets_h8_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/bracket/square_brackets_h8_dot.png",
+     "outlined": "png/64/outlined/crosshairs/bracket/square_brackets_h8_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/bracket/square_brackets_h8_dot.png",
+     "outlined": "png/128/outlined/crosshairs/bracket/square_brackets_h8_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/bracket/square_brackets_h8_dot.svg",
+    "outlined": "svg/outlined/crosshairs/bracket/square_brackets_h8_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "scope_ring_cross_gap3_dot",
+   "kind": "crosshairs",
+   "category": "sniper",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/sniper/scope_ring_cross_gap3_dot.png",
+     "outlined": "png/32/outlined/crosshairs/sniper/scope_ring_cross_gap3_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/sniper/scope_ring_cross_gap3_dot.png",
+     "outlined": "png/64/outlined/crosshairs/sniper/scope_ring_cross_gap3_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/sniper/scope_ring_cross_gap3_dot.png",
+     "outlined": "png/128/outlined/crosshairs/sniper/scope_ring_cross_gap3_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/sniper/scope_ring_cross_gap3_dot.svg",
+    "outlined": "svg/outlined/crosshairs/sniper/scope_ring_cross_gap3_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "duplex_3way_dot",
+   "kind": "crosshairs",
+   "category": "sniper",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/sniper/duplex_3way_dot.png",
+     "outlined": "png/32/outlined/crosshairs/sniper/duplex_3way_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/sniper/duplex_3way_dot.png",
+     "outlined": "png/64/outlined/crosshairs/sniper/duplex_3way_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/sniper/duplex_3way_dot.png",
+     "outlined": "png/128/outlined/crosshairs/sniper/duplex_3way_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/sniper/duplex_3way_dot.svg",
+    "outlined": "svg/outlined/crosshairs/sniper/duplex_3way_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "mildot_4way",
+   "kind": "crosshairs",
+   "category": "sniper",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/sniper/mildot_4way.png",
+     "outlined": "png/32/outlined/crosshairs/sniper/mildot_4way.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/sniper/mildot_4way.png",
+     "outlined": "png/64/outlined/crosshairs/sniper/mildot_4way.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/sniper/mildot_4way.png",
+     "outlined": "png/128/outlined/crosshairs/sniper/mildot_4way.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/sniper/mildot_4way.svg",
+    "outlined": "svg/outlined/crosshairs/sniper/mildot_4way.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "spread_n6_r11_d1",
+   "kind": "crosshairs",
+   "category": "spread",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/spread/spread_n6_r11_d1.png",
+     "outlined": "png/32/outlined/crosshairs/spread/spread_n6_r11_d1.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/spread/spread_n6_r11_d1.png",
+     "outlined": "png/64/outlined/crosshairs/spread/spread_n6_r11_d1.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/spread/spread_n6_r11_d1.png",
+     "outlined": "png/128/outlined/crosshairs/spread/spread_n6_r11_d1.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/spread/spread_n6_r11_d1.svg",
+    "outlined": "svg/outlined/crosshairs/spread/spread_n6_r11_d1.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "holo_ring_r12_dot",
+   "kind": "crosshairs",
+   "category": "holo",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/holo/holo_ring_r12_dot.png",
+     "outlined": "png/32/outlined/crosshairs/holo/holo_ring_r12_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/holo/holo_ring_r12_dot.png",
+     "outlined": "png/64/outlined/crosshairs/holo/holo_ring_r12_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/holo/holo_ring_r12_dot.png",
+     "outlined": "png/128/outlined/crosshairs/holo/holo_ring_r12_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/holo/holo_ring_r12_dot.svg",
+    "outlined": "svg/outlined/crosshairs/holo/holo_ring_r12_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "holo_ring_r12_ticks",
+   "kind": "crosshairs",
+   "category": "holo",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/holo/holo_ring_r12_ticks.png",
+     "outlined": "png/32/outlined/crosshairs/holo/holo_ring_r12_ticks.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/holo/holo_ring_r12_ticks.png",
+     "outlined": "png/64/outlined/crosshairs/holo/holo_ring_r12_ticks.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/holo/holo_ring_r12_ticks.png",
+     "outlined": "png/128/outlined/crosshairs/holo/holo_ring_r12_ticks.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/holo/holo_ring_r12_ticks.svg",
+    "outlined": "svg/outlined/crosshairs/holo/holo_ring_r12_ticks.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "arrows_in_4_dot",
+   "kind": "crosshairs",
+   "category": "shapes",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/shapes/arrows_in_4_dot.png",
+     "outlined": "png/32/outlined/crosshairs/shapes/arrows_in_4_dot.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/shapes/arrows_in_4_dot.png",
+     "outlined": "png/64/outlined/crosshairs/shapes/arrows_in_4_dot.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/shapes/arrows_in_4_dot.png",
+     "outlined": "png/128/outlined/crosshairs/shapes/arrows_in_4_dot.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/shapes/arrows_in_4_dot.svg",
+    "outlined": "svg/outlined/crosshairs/shapes/arrows_in_4_dot.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "bold_dot_ring_w4",
+   "kind": "crosshairs",
+   "category": "misc",
+   "files": {
+    "32": {
+     "white": "png/32/white/crosshairs/misc/bold_dot_ring_w4.png",
+     "outlined": "png/32/outlined/crosshairs/misc/bold_dot_ring_w4.png"
+    },
+    "64": {
+     "white": "png/64/white/crosshairs/misc/bold_dot_ring_w4.png",
+     "outlined": "png/64/outlined/crosshairs/misc/bold_dot_ring_w4.png"
+    },
+    "128": {
+     "white": "png/128/white/crosshairs/misc/bold_dot_ring_w4.png",
+     "outlined": "png/128/outlined/crosshairs/misc/bold_dot_ring_w4.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/crosshairs/misc/bold_dot_ring_w4.svg",
+    "outlined": "svg/outlined/crosshairs/misc/bold_dot_ring_w4.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "hit_x_gap4_len5",
+   "kind": "hit_markers",
+   "category": "hit_marker",
+   "files": {
+    "32": {
+     "white": "png/32/white/hit_markers/hit_x_gap4_len5.png",
+     "outlined": "png/32/outlined/hit_markers/hit_x_gap4_len5.png"
+    },
+    "64": {
+     "white": "png/64/white/hit_markers/hit_x_gap4_len5.png",
+     "outlined": "png/64/outlined/hit_markers/hit_x_gap4_len5.png"
+    },
+    "128": {
+     "white": "png/128/white/hit_markers/hit_x_gap4_len5.png",
+     "outlined": "png/128/outlined/hit_markers/hit_x_gap4_len5.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/hit_markers/hit_x_gap4_len5.svg",
+    "outlined": "svg/outlined/hit_markers/hit_x_gap4_len5.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "hit_x_ring",
+   "kind": "hit_markers",
+   "category": "hit_marker",
+   "files": {
+    "32": {
+     "white": "png/32/white/hit_markers/hit_x_ring.png",
+     "outlined": "png/32/outlined/hit_markers/hit_x_ring.png"
+    },
+    "64": {
+     "white": "png/64/white/hit_markers/hit_x_ring.png",
+     "outlined": "png/64/outlined/hit_markers/hit_x_ring.png"
+    },
+    "128": {
+     "white": "png/128/white/hit_markers/hit_x_ring.png",
+     "outlined": "png/128/outlined/hit_markers/hit_x_ring.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/hit_markers/hit_x_ring.svg",
+    "outlined": "svg/outlined/hit_markers/hit_x_ring.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "arrow_classic",
+   "kind": "cursors",
+   "category": "arrow",
+   "files": {
+    "32": {
+     "white": "png/32/white/cursors/arrow/arrow_classic.png",
+     "outlined": "png/32/outlined/cursors/arrow/arrow_classic.png"
+    },
+    "64": {
+     "white": "png/64/white/cursors/arrow/arrow_classic.png",
+     "outlined": "png/64/outlined/cursors/arrow/arrow_classic.png"
+    },
+    "128": {
+     "white": "png/128/white/cursors/arrow/arrow_classic.png",
+     "outlined": "png/128/outlined/cursors/arrow/arrow_classic.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/cursors/arrow/arrow_classic.svg",
+    "outlined": "svg/outlined/cursors/arrow/arrow_classic.svg"
+   },
+   "hotspot": {
+    "32": [
+     5,
+     3
+    ],
+    "64": [
+     10,
+     6
+    ],
+    "128": [
+     20,
+     12
+    ]
+   }
+  },
+  {
+   "name": "hand_point",
+   "kind": "cursors",
+   "category": "hand",
+   "files": {
+    "32": {
+     "white": "png/32/white/cursors/hand/hand_point.png",
+     "outlined": "png/32/outlined/cursors/hand/hand_point.png"
+    },
+    "64": {
+     "white": "png/64/white/cursors/hand/hand_point.png",
+     "outlined": "png/64/outlined/cursors/hand/hand_point.png"
+    },
+    "128": {
+     "white": "png/128/white/cursors/hand/hand_point.png",
+     "outlined": "png/128/outlined/cursors/hand/hand_point.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/cursors/hand/hand_point.svg",
+    "outlined": "svg/outlined/cursors/hand/hand_point.svg"
+   },
+   "hotspot": {
+    "32": [
+     11,
+     5
+    ],
+    "64": [
+     22,
+     10
+    ],
+    "128": [
+     44,
+     20
+    ]
+   }
+  },
+  {
+   "name": "attack_sword",
+   "kind": "cursors",
+   "category": "attack",
+   "files": {
+    "32": {
+     "white": "png/32/white/cursors/attack/attack_sword.png",
+     "outlined": "png/32/outlined/cursors/attack/attack_sword.png"
+    },
+    "64": {
+     "white": "png/64/white/cursors/attack/attack_sword.png",
+     "outlined": "png/64/outlined/cursors/attack/attack_sword.png"
+    },
+    "128": {
+     "white": "png/128/white/cursors/attack/attack_sword.png",
+     "outlined": "png/128/outlined/cursors/attack/attack_sword.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/cursors/attack/attack_sword.svg",
+    "outlined": "svg/outlined/cursors/attack/attack_sword.svg"
+   },
+   "hotspot": {
+    "32": [
+     25,
+     7
+    ],
+    "64": [
+     50,
+     14
+    ],
+    "128": [
+     101,
+     27
+    ]
+   }
+  },
+  {
+   "name": "move_four",
+   "kind": "cursors",
+   "category": "move",
+   "files": {
+    "32": {
+     "white": "png/32/white/cursors/move/move_four.png",
+     "outlined": "png/32/outlined/cursors/move/move_four.png"
+    },
+    "64": {
+     "white": "png/64/white/cursors/move/move_four.png",
+     "outlined": "png/64/outlined/cursors/move/move_four.png"
+    },
+    "128": {
+     "white": "png/128/white/cursors/move/move_four.png",
+     "outlined": "png/128/outlined/cursors/move/move_four.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/cursors/move/move_four.svg",
+    "outlined": "svg/outlined/cursors/move/move_four.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "loading_arc",
+   "kind": "cursors",
+   "category": "state",
+   "files": {
+    "32": {
+     "white": "png/32/white/cursors/state/loading_arc.png",
+     "outlined": "png/32/outlined/cursors/state/loading_arc.png"
+    },
+    "64": {
+     "white": "png/64/white/cursors/state/loading_arc.png",
+     "outlined": "png/64/outlined/cursors/state/loading_arc.png"
+    },
+    "128": {
+     "white": "png/128/white/cursors/state/loading_arc.png",
+     "outlined": "png/128/outlined/cursors/state/loading_arc.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/cursors/state/loading_arc.svg",
+    "outlined": "svg/outlined/cursors/state/loading_arc.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  },
+  {
+   "name": "text_beam",
+   "kind": "cursors",
+   "category": "text",
+   "files": {
+    "32": {
+     "white": "png/32/white/cursors/text/text_beam.png",
+     "outlined": "png/32/outlined/cursors/text/text_beam.png"
+    },
+    "64": {
+     "white": "png/64/white/cursors/text/text_beam.png",
+     "outlined": "png/64/outlined/cursors/text/text_beam.png"
+    },
+    "128": {
+     "white": "png/128/white/cursors/text/text_beam.png",
+     "outlined": "png/128/outlined/cursors/text/text_beam.png"
+    }
+   },
+   "svg": {
+    "white": "svg/white/cursors/text/text_beam.svg",
+    "outlined": "svg/outlined/cursors/text/text_beam.svg"
+   },
+   "hotspot": {
+    "32": [
+     16,
+     16
+    ],
+    "64": [
+     32,
+     32
+    ],
+    "128": [
+     64,
+     64
+    ]
+   }
+  }
+ ]
+}

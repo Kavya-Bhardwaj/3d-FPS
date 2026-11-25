@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 32 32">
+<title>ring_r12_four_arcs_dot</title>
+<g id="shape"><path d="M27.276 20.104 A12 12 0 0 1 20.104 27.276" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="butt"/><path d="M11.896 27.276 A12 12 0 0 1 4.724 20.104" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="butt"/><path d="M4.724 11.896 A12 12 0 0 1 11.896 4.724" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="butt"/><path d="M20.104 4.724 A12 12 0 0 1 27.276 11.896" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="butt"/><path d="M15.3 15 L16.7 15 L17 15.3 L17 16.7 L16.7 17 L15.3 17 L15 16.7 L15 15.3 Z" fill="#fff"/></g>
+</svg>

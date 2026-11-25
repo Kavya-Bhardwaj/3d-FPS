@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 32 32">
+<title>arrows_in_4_dot</title>
+<g id="outline"><path d="M16 12 L13 8 L19 8 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round"/><path d="M20 16 L24 13 L24 19 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round"/><path d="M16 20 L19 24 L13 24 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round"/><path d="M12 16 L8 19 L8 13 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round"/><path d="M15.3 15 L16.7 15 L17 15.3 L17 16.7 L16.7 17 L15.3 17 L15 16.7 L15 15.3 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round"/></g>
+<g id="shape"><path d="M16 12 L13 8 L19 8 Z" fill="#fff"/><path d="M20 16 L24 13 L24 19 Z" fill="#fff"/><path d="M16 20 L19 24 L13 24 Z" fill="#fff"/><path d="M12 16 L8 19 L8 13 Z" fill="#fff"/><path d="M15.3 15 L16.7 15 L17 15.3 L17 16.7 L16.7 17 L15.3 17 L15 16.7 L15 15.3 Z" fill="#fff"/></g>
+</svg>

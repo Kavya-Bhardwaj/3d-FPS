@@ -1,0 +1,15 @@
+REEBOO Labs - Crosshair and Cursor Pack - License
+
+Copyright (c) REEBOO Labs. All rights reserved except as granted below.
+
+You may:
+  - use these assets in commercial and non-commercial games, apps and videos, royalty-free;
+  - modify them (recolour, resize, edit) for use in your own projects.
+
+You may not:
+  - resell or redistribute the assets as-is, alone or as part of an asset pack, template or bundle;
+  - claim the assets as your own work.
+
+Credit to REEBOO Labs is appreciated but not required.
+
+The assets are provided as-is without warranty.
